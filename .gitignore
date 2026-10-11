@@ -1,0 +1,23 @@
+﻿# Python
+backend/.venv/
+backend/.env
+backend/.env.*
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+frontend/next-env.d.ts
+frontend/*.tsbuildinfo
+
+# Project runtime output
+backend/storage/
+backend/*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
